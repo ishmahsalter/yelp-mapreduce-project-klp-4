@@ -1,0 +1,1 @@
+(echo business_id,name,address,stars,categories && echo b1,Toko A,Makassar,4.0,"Restaurants, Shopping" && echo b2,Toko B,Makassar,3.0,"Restaurants" && echo b3,Toko C,Makassar,5.0,"Shopping") > test_data.csv
