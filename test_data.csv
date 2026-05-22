@@ -1,0 +1,201 @@
+business_id,name,address,stars,categories
+b1,Warung Makan 1,Makassar,3.8,Restaurants, Food
+b2,Toko Baju 2,Makassar,4.1,Shopping, Beauty
+b3,Cafe Enak 3,Makassar,4.2,Restaurants, Food
+b4,Klinik Sehat 4,Makassar,4.4,Health
+b5,Salon Cantik 5,Makassar,4.3,Beauty
+b6,Hotel Nyaman 6,Makassar,3.9,Hotels
+b7,Resto Seafood 7,Makassar,3.5,Restaurants
+b8,Butik Modis 8,Makassar,4.5,Shopping
+b9,Warkop Kota 9,Makassar,4.0,Restaurants, Food
+b10,Apotek Sejahtera 10,Makassar,4.6,Health
+b11,Spa Relaksasi 11,Makassar,4.2,Beauty
+b12,Penginapan Asri 12,Makassar,3.8,Hotels
+b13,Rumah Makan 13,Makassar,3.7,Restaurants
+b14,Toko Sepatu 14,Makassar,4.0,Shopping
+b15,Bakso Mercon 15,Makassar,4.3,Restaurants, Food
+b16,Praktek Dokter 16,Makassar,4.5,Health
+b17,Barber Shop 17,Makassar,4.1,Beauty
+b18,Wisma Indah 18,Makassar,3.6,Hotels
+b19,Kedai Kopi 19,Makassar,4.1,Restaurants, Food
+b20,Supermarket 20,Makassar,4.2,Shopping
+b21,Warung Makan 21,Makassar,3.9,Restaurants, Food
+b22,Toko Baju 22,Makassar,4.0,Shopping, Beauty
+b23,Cafe Enak 23,Makassar,4.3,Restaurants, Food
+b24,Klinik Sehat 24,Makassar,4.5,Health
+b25,Salon Cantik 25,Makassar,4.2,Beauty
+b26,Hotel Nyaman 26,Makassar,4.0,Hotels
+b27,Resto Seafood 27,Makassar,3.6,Restaurants
+b28,Butik Modis 28,Makassar,4.4,Shopping
+b29,Warkop Kota 29,Makassar,4.1,Restaurants, Food
+b30,Apotek Sejahtera 30,Makassar,4.7,Health
+b31,Spa Relaksasi 31,Makassar,4.3,Beauty
+b32,Penginapan Asri 32,Makassar,3.9,Hotels
+b33,Rumah Makan 33,Makassar,3.8,Restaurants
+b34,Toko Sepatu 34,Makassar,4.1,Shopping
+b35,Bakso Mercon 35,Makassar,4.4,Restaurants, Food
+b36,Praktek Dokter 36,Makassar,4.6,Health
+b37,Barber Shop 37,Makassar,4.2,Beauty
+b38,Wisma Indah 38,Makassar,3.7,Hotels
+b39,Kedai Kopi 39,Makassar,4.2,Restaurants, Food
+b40,Supermarket 40,Makassar,4.3,Shopping
+b41,Warung Makan 41,Makassar,3.7,Restaurants, Food
+b42,Toko Baju 42,Makassar,4.2,Shopping, Beauty
+b43,Cafe Enak 43,Makassar,4.1,Restaurants, Food
+b44,Klinik Sehat 44,Makassar,4.3,Health
+b45,Salon Cantik 45,Makassar,4.4,Beauty
+b46,Hotel Nyaman 46,Makassar,3.8,Hotels
+b47,Resto Seafood 47,Makassar,3.4,Restaurants
+b48,Butik Modis 48,Makassar,4.6,Shopping
+b49,Warkop Kota 49,Makassar,3.9,Restaurants, Food
+b50,Apotek Sejahtera 50,Makassar,4.5,Health
+b51,Spa Relaksasi 51,Makassar,4.1,Beauty
+b52,Penginapan Asri 52,Makassar,3.7,Hotels
+b53,Rumah Makan 53,Makassar,3.6,Restaurants
+b54,Toko Sepatu 54,Makassar,3.9,Shopping
+b55,Bakso Mercon 55,Makassar,4.2,Restaurants, Food
+b56,Praktek Dokter 56,Makassar,4.4,Health
+b57,Barber Shop 57,Makassar,4.0,Beauty
+b58,Wisma Indah 58,Makassar,3.5,Hotels
+b59,Kedai Kopi 59,Makassar,4.0,Restaurants, Food
+b60,Supermarket 60,Makassar,4.1,Shopping
+b61,Warung Makan 61,Makassar,4.0,Restaurants, Food
+b62,Toko Baju 62,Makassar,4.3,Shopping, Beauty
+b63,Cafe Enak 63,Makassar,4.4,Restaurants, Food
+b64,Klinik Sehat 64,Makassar,4.6,Health
+b65,Salon Cantik 65,Makassar,4.5,Beauty
+b66,Hotel Nyaman 66,Makassar,4.1,Hotels
+b67,Resto Seafood 67,Makassar,3.7,Restaurants
+b68,Butik Modis 68,Makassar,4.7,Shopping
+b69,Warkop Kota 69,Makassar,4.2,Restaurants, Food
+b70,Apotek Sejahtera 70,Makassar,4.8,Health
+b71,Spa Relaksasi 71,Makassar,4.4,Beauty
+b72,Penginapan Asri 72,Makassar,4.0,Hotels
+b73,Rumah Makan 73,Makassar,3.9,Restaurants
+b74,Toko Sepatu 74,Makassar,4.2,Shopping
+b75,Bakso Mercon 75,Makassar,4.5,Restaurants, Food
+b76,Praktek Dokter 76,Makassar,4.7,Health
+b77,Barber Shop 77,Makassar,4.3,Beauty
+b78,Wisma Indah 78,Makassar,3.8,Hotels
+b79,Kedai Kopi 79,Makassar,4.3,Restaurants, Food
+b80,Supermarket 80,Makassar,4.4,Shopping
+b81,Warung Makan 81,Makassar,3.6,Restaurants, Food
+b82,Toko Baju 82,Makassar,4.1,Shopping, Beauty
+b83,Cafe Enak 83,Makassar,4.0,Restaurants, Food
+b84,Klinik Sehat 84,Makassar,4.2,Health
+b85,Salon Cantik 85,Makassar,4.1,Beauty
+b86,Hotel Nyaman 86,Makassar,3.7,Hotels
+b87,Resto Seafood 87,Makassar,3.3,Restaurants
+b88,Butik Modis 88,Makassar,4.3,Shopping
+b89,Warkop Kota 89,Makassar,3.8,Restaurants, Food
+b90,Apotek Sejahtera 90,Makassar,4.4,Health
+b91,Spa Relaksasi 91,Makassar,4.0,Beauty
+b92,Penginapan Asri 92,Makassar,3.6,Hotels
+b93,Rumah Makan 93,Makassar,3.5,Restaurants
+b94,Toko Sepatu 94,Makassar,3.8,Shopping
+b95,Bakso Mercon 95,Makassar,4.1,Restaurants, Food
+b96,Praktek Dokter 96,Makassar,4.3,Health
+b97,Barber Shop 97,Makassar,3.9,Beauty
+b98,Wisma Indah 98,Makassar,3.4,Hotels
+b99,Kedai Kopi 99,Makassar,3.9,Restaurants, Food
+b100,Supermarket 100,Makassar,4.0,Shopping
+b101,Warung Makan 101,Makassar,3.9,Restaurants, Food
+b102,Toko Baju 102,Makassar,4.2,Shopping, Beauty
+b103,Cafe Enak 103,Makassar,4.3,Restaurants, Food
+b104,Klinik Sehat 104,Makassar,4.5,Health
+b105,Salon Cantik 105,Makassar,4.4,Beauty
+b106,Hotel Nyaman 106,Makassar,4.0,Hotels
+b107,Resto Seafood 107,Makassar,3.6,Restaurants
+b108,Butik Modis 108,Makassar,4.6,Shopping
+b109,Warkop Kota 109,Makassar,4.1,Restaurants, Food
+b110,Apotek Sejahtera 110,Makassar,4.7,Health
+b111,Spa Relaksasi 111,Makassar,4.3,Beauty
+b112,Penginapan Asri 112,Makassar,3.9,Hotels
+b113,Rumah Makan 113,Makassar,3.8,Restaurants
+b114,Toko Sepatu 114,Makassar,4.1,Shopping
+b115,Bakso Mercon 115,Makassar,4.4,Restaurants, Food
+b116,Praktek Dokter 116,Makassar,4.6,Health
+b117,Barber Shop 117,Makassar,4.2,Beauty
+b118,Wisma Indah 118,Makassar,3.7,Hotels
+b119,Kedai Kopi 119,Makassar,4.2,Restaurants, Food
+b120,Supermarket 120,Makassar,4.3,Shopping
+b121,Warung Makan 121,Makassar,3.8,Restaurants, Food
+b122,Toko Baju 122,Makassar,4.1,Shopping, Beauty
+b123,Cafe Enak 123,Makassar,4.2,Restaurants, Food
+b124,Klinik Sehat 124,Makassar,4.4,Health
+b125,Salon Cantik 125,Makassar,4.3,Beauty
+b126,Hotel Nyaman 126,Makassar,3.9,Hotels
+b127,Resto Seafood 127,Makassar,3.5,Restaurants
+b128,Butik Modis 128,Makassar,4.5,Shopping
+b129,Warkop Kota 129,Makassar,4.0,Restaurants, Food
+b130,Apotek Sejahtera 130,Makassar,4.6,Health
+b131,Spa Relaksasi 131,Makassar,4.2,Beauty
+b132,Penginapan Asri 132,Makassar,3.8,Hotels
+b133,Rumah Makan 133,Makassar,3.7,Restaurants
+b134,Toko Sepatu 134,Makassar,4.0,Shopping
+b135,Bakso Mercon 135,Makassar,4.3,Restaurants, Food
+b136,Praktek Dokter 136,Makassar,4.5,Health
+b137,Barber Shop 137,Makassar,4.1,Beauty
+b138,Wisma Indah 138,Makassar,3.6,Hotels
+b139,Kedai Kopi 139,Makassar,4.1,Restaurants, Food
+b140,Supermarket 140,Makassar,4.2,Shopping
+b141,Warung Makan 141,Makassar,4.0,Restaurants, Food
+b142,Toko Baju 142,Makassar,4.3,Shopping, Beauty
+b143,Cafe Enak 143,Makassar,4.4,Restaurants, Food
+b144,Klinik Sehat 144,Makassar,4.6,Health
+b145,Salon Cantik 145,Makassar,4.5,Beauty
+b146,Hotel Nyaman 146,Makassar,4.1,Hotels
+b147,Resto Seafood 147,Makassar,3.7,Restaurants
+b148,Butik Modis 148,Makassar,4.7,Shopping
+b149,Warkop Kota 149,Makassar,4.2,Restaurants, Food
+b150,Apotek Sejahtera 150,Makassar,4.8,Health
+b151,Spa Relaksasi 151,Makassar,4.4,Beauty
+b152,Penginapan Asri 152,Makassar,4.0,Hotels
+b153,Rumah Makan 153,Makassar,3.9,Restaurants
+b154,Toko Sepatu 154,Makassar,4.2,Shopping
+b155,Bakso Mercon 155,Makassar,4.5,Restaurants, Food
+b156,Praktek Dokter 156,Makassar,4.7,Health
+b157,Barber Shop 157,Makassar,4.3,Beauty
+b158,Wisma Indah 158,Makassar,3.8,Hotels
+b159,Kedai Kopi 159,Makassar,4.3,Restaurants, Food
+b160,Supermarket 160,Makassar,4.4,Shopping
+b161,Warung Makan 161,Makassar,3.7,Restaurants, Food
+b162,Toko Baju 162,Makassar,4.2,Shopping, Beauty
+b163,Cafe Enak 163,Makassar,4.1,Restaurants, Food
+b164,Klinik Sehat 164,Makassar,4.3,Health
+b165,Salon Cantik 165,Makassar,4.4,Beauty
+b166,Hotel Nyaman 166,Makassar,3.8,Hotels
+b167,Resto Seafood 167,Makassar,3.4,Restaurants
+b168,Butik Modis 168,Makassar,4.6,Shopping
+b169,Warkop Kota 169,Makassar,3.9,Restaurants, Food
+b170,Apotek Sejahtera 170,Makassar,4.5,Health
+b171,Spa Relaksasi 171,Makassar,4.1,Beauty
+b172,Penginapan Asri 172,Makassar,3.7,Hotels
+b173,Rumah Makan 173,Makassar,3.6,Restaurants
+b174,Toko Sepatu 174,Makassar,3.9,Shopping
+b175,Bakso Mercon 175,Makassar,4.2,Restaurants, Food
+b176,Praktek Dokter 176,Makassar,4.4,Health
+b177,Barber Shop 177,Makassar,4.0,Beauty
+b178,Wisma Indah 178,Makassar,3.5,Hotels
+b179,Kedai Kopi 179,Makassar,4.0,Restaurants, Food
+b180,Supermarket 180,Makassar,4.1,Shopping
+b181,Warung Makan 181,Makassar,3.6,Restaurants, Food
+b182,Toko Baju 182,Makassar,4.1,Shopping, Beauty
+b183,Cafe Enak 183,Makassar,4.0,Restaurants, Food
+b184,Klinik Sehat 184,Makassar,4.2,Health
+b185,Salon Cantik 185,Makassar,4.1,Beauty
+b186,Hotel Nyaman 186,Makassar,3.7,Hotels
+b187,Resto Seafood 187,Makassar,3.3,Restaurants
+b188,Butik Modis 188,Makassar,4.3,Shopping
+b189,Warkop Kota 189,Makassar,3.8,Restaurants, Food
+b190,Apotek Sejahtera 190,Makassar,4.4,Health
+b191,Spa Relaksasi 191,Makassar,4.0,Beauty
+b192,Penginapan Asri 192,Makassar,3.6,Hotels
+b193,Rumah Makan 193,Makassar,3.5,Restaurants
+b194,Toko Sepatu 194,Makassar,3.8,Shopping
+b195,Bakso Mercon 195,Makassar,4.1,Restaurants, Food
+b196,Praktek Dokter 196,Makassar,4.3,Health
+b197,Barber Shop 197,Makassar,3.9,Beauty
+b198,Wisma Indah 198,Makassar,3.4,Hotels
+b199,Kedai Kopi 199,Makassar,3.9,Restaurants, Food
+b200,Supermarket 200,Makassar,4.0,Shopping
